@@ -1,16 +1,5 @@
 # MStudents
 Student Profile Management System
- 
-Table 1: students
-StId, StName, Course, Skills, FeePayment, CreditsEarned, IntakeYear
-Table 2: College
-DeptId, DeptName, DeanName, CoursesOffered  
-Table 3: On Campus employment
-JobId, Location, Skills Req, Salary, Duration, PostingDate, Deadline
-Table 4: internships/co op
-JobId, Location, Skills Req, Salary, Duration, PostingDate, Deadline, Duration
-Table 5: events
-EId, ELocation, EPurpose
 
 Conceptual Idea:
 
